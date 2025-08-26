@@ -1,5 +1,5 @@
-Hi! My name is Klyde Vincent Sangalang <br />
-Junior Software Engineer <br />
+# Hi! My name is Klyde Vincent Sangalang <br />
+## Junior Software Engineer <br />
 
 <hr />
 
@@ -15,7 +15,7 @@ Junior Software Engineer <br />
 
 <p align="center">
   
-  Skills
+  ### Skills
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,6 +41,6 @@ Junior Software Engineer <br />
 
 </p>
 
-Socials
+
 
    
