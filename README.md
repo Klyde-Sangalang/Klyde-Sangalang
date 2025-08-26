@@ -1,15 +1,23 @@
 Hi 
 
-My name is Klyde Vincent Sangalang
-Junior Software Engineer
+My name is Klyde Vincent Sangalang <br />
+Junior Software Engineer <br />
 I already have work experience doing web3 development and frontend development, I'm responsible for the design and construction of websites, Ensuring to meet user expectations by giving assurance that they look good, run smoothly and no errors. btw I'm still looking for opportunities to utilize my skills and experience to work in coding on a freelance basis.
 
 <hr />
 
-🌍  I'm based in Philippines
-🖥️  Portfolio (https://klydesangalang.vercel.app)
-✉️  You can contact me at sangalangklyde@gmail.com
-🤝 I'm open to collaborating on interesting projects as a developer
+<ul>
+  <li>🌍  I'm based in Philippines</li>
+  <li>🖥️  Portfolio (https://klydesangalang.vercel.app)</li>
+  <li>✉️  You can contact me at sangalangklyde@gmail.com</li>
+  <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
+  
+</ul>
+
+
+
+
+
 
 ***
 
@@ -34,11 +42,7 @@ I already have work experience doing web3 development and frontend development, 
 
   <!-- CMS / Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" title="Elementor" alt="Elementor" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp;
 
-  <!-- APIs -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-api-coding-and-development-flat-flat-juicy-fish.png" title="RESTful APIs" alt="RESTful APIs" width="40" height="40"/>&nbsp;
 </p>
 
 Socials
