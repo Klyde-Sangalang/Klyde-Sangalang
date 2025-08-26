@@ -6,7 +6,7 @@
 <ul>
   <li>🌍  I'm based in Philippines</li>
   <li>🖥️  Portfolio (https://klydesangalang.vercel.app)</li>
-  <li>✉️  You can contact me at sangalangklyde@gmail.com</li>
+  <li>✉️  You can contact me at <a href="mailto:sangalangklyde@gmail.com">sangalangklyde@gmail.com</a></li>
   <li>🤝 I'm open to collaborating on interesting projects as a developer</li>
   
 </ul>
