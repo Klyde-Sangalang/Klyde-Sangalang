@@ -1,8 +1,5 @@
-Hi 
-
-My name is Klyde Vincent Sangalang <br />
+Hi! My name is Klyde Vincent Sangalang <br />
 Junior Software Engineer <br />
-I already have work experience doing web3 development and frontend development, I'm responsible for the design and construction of websites, Ensuring to meet user expectations by giving assurance that they look good, run smoothly and no errors. btw I'm still looking for opportunities to utilize my skills and experience to work in coding on a freelance basis.
 
 <hr />
 
